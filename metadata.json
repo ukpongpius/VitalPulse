@@ -1,0 +1,6 @@
+{
+  "name": "VitalPulse",
+  "description": "Comprehensive wellness companion to check vital signs (heart rate, blood pressure, SpO2, respiratory rate) and log daily meals, macros, and hydration for optimal health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
